@@ -1,0 +1,14 @@
+# AppleDouble sidecars, created because this volume is exFAT and can't store
+# macOS metadata in the file itself.
+._*
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+
+# Python
+__pycache__/
+*.pyc
